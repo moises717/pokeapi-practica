@@ -14,10 +14,6 @@ yarn install
 yarn start
 ```
 
-## Licencia
-
-MIT
-
 ## Autor
 
 [@Moises-Barillas](https://moisesbarillas.vercel.app/)
