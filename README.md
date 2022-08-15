@@ -18,7 +18,7 @@ yarn start
 
 [@Moises-Barillas](https://moisesbarillas.vercel.app/)
 
-## Herramientas Y recursos
+## Herramientas y recursos
 
 - [Next.js](https://nextjs.org/)
 - [Pokeapi](https://pokeapi.co/)
