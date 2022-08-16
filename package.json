@@ -1,6 +1,7 @@
 {
   "name": "pokemon-app",
   "version": "0.1.0",
+  "description": "Muestra una lista de pokemon's que son obtenidos estaticamente usando la pokeApi",
   "private": true,
   "scripts": {
     "dev": "next dev",
