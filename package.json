@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Muestra una lista de pokemon's que son obtenidos estaticamente usando la pokeApi",
   "private": true,
+  "keywords": [
+    "axios",
+    "canvas-confetti"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
